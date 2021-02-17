@@ -1,2 +1,2 @@
 # Yeshly.online
-first porfolio that actually provide solutions.
+first porfolio that actually provides solutions.
